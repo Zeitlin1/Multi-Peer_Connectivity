@@ -1,0 +1,6 @@
+framework module Pods_Multipeer_Connect {
+  umbrella header "Pods-Multipeer_Connect-umbrella.h"
+
+  export *
+  module * { export * }
+}
